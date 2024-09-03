@@ -32,7 +32,7 @@
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![ORE0000 profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ORE0000)
+[![ORE0000 profile views](https://u8views.com/api/v1/github/profiles/131525011/views/day-week-month-total-count.svg)](https://u8views.com/github/ORE0000)
 
 
 
