@@ -1,4 +1,4 @@
-### Hi, I'm ORE0000 👋
+### Hi, I'm ASHUTOSH PANT 👋
 
 
 
@@ -31,8 +31,8 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORE0000&layout=compact&&langs_count=8"/>
 </div>
 
-### Profile views counter 👁️‍🗨️
-[![ORE0000 profile views](https://u8views.com/api/v1/github/profiles/131525011/views/day-week-month-total-count.svg)](https://u8views.com/github/ORE0000)
+<!--### Profile views counter 👁️‍🗨️
+[![ORE0000 profile views](https://u8views.com/api/v1/github/profiles/131525011/views/day-week-month-total-count.svg)](https://u8views.com/github/ORE0000)-->
 
 
 
