@@ -19,7 +19,7 @@
 <br/>
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/drive/folders/1CWr2NHOX00hiVtS-aStoXFUz59n8wYY0)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Skdej030h_NEVDLkeipbLoYQS6H28ry9/view?usp=sharing)
 - :email: ashutoshpant.855@gmail.com
 
 <br/>
