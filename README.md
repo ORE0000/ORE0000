@@ -5,8 +5,8 @@
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi) 
-[![Linkedin Badge](https://img.shields.io/badge/-ASHUTOSH_PANT-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/ashutosh-pant-91b137263/)
-[![Mail Badge](https://img.shields.io/badge/-@ASHUTOSH_PANT-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/oreeoo) 
+[![Linkedin Badge](https://img.shields.io/badge/-ASHUTOSH_PANT-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-pant-91b137263/)
+[![Mail Badge](https://img.shields.io/badge/-@ASHUTOSH_PANT-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/oreeoo._?igsh=MTVvY3AwZjl1emh4eA==) 
 [![Mail Badge](https://img.shields.io/badge/-ASHUTOSH_PANT-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashutoshpant.855@gmail.com)
 
 #### Top Technologies
