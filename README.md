@@ -17,7 +17,9 @@
 - Creating dashboards, writing queries, and extracting business insights
 - Real-world case studies and visual analytics projects
 
-📄 **[View My Resume](https://drive.google.com/file/d/1d_RZYwKraTgPuFT4HAMpW-3swEkeRw8p/view?usp=sharing)**
+
+🚀 Explore My Resume
+<div align="center"> <a href="https://drive.google.com/file/d/1d_RZYwKraTgPuFT4HAMpW-3swEkeRw8p/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/-CLICK_TO_VIEW_RESUME-%2300C9A7?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=000000" alt="Resume Button"/> </a> <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Data+is+Power.;My+Resume+Speaks+for+Itself.;Click+Above+to+Explore+It" alt="Typing animation"/> </div>
 
 📊 **Portfolio Visualizations:** Coming soon...
 
@@ -66,13 +68,29 @@
 
 ---
 
-### 🌐 Connect with Me
+🌐 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/ashutosh-pant-91b137263/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>&nbsp; <a href="mailto:ashutoshpant.855@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>&nbsp; <a href="https://www.instagram.com/oreeoo._______/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+<br/><br/>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ashutosh_Pant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-pant-91b137263/)
-[![Gmail Badge](https://img.shields.io/badge/-ashutoshpant.855@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashutoshpant.855@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@oreeoo._______-e84393?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oreeoo._______/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Available+for+Internships+and+Projects;Let%E2%80%99s+Connect%2C+Code+%26+Create+Together" alt="Typing animation"/>
+</div>
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/ORE0000">Ashutosh Pant</a></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ORE0000&label=Profile%20views&color=0e75b6&style=flat" alt="ORE0000" /></p>
+<div align="center">
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Ashutosh+Pant;Thanks+for+visiting+my+GitHub!" alt="Footer typing"/>
+
+  <br/><br/>
+  
+  <a href="https://github.com/ORE0000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@ORE0000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ORE0000&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+
+</div>
