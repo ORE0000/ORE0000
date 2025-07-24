@@ -17,7 +17,7 @@
 - Creating dashboards, writing queries, and extracting business insights
 - Real-world case studies and visual analytics projects
 
-📄 **[View My Resume]([https://drive.google.com/file/d/1c-9FrU_7_jQetJElbvPNRDY8z7ZZpgyl/view?usp=sharing](https://drive.google.com/file/d/1d_RZYwKraTgPuFT4HAMpW-3swEkeRw8p/view?usp=sharing))**
+📄 **[View My Resume](https://drive.google.com/file/d/1d_RZYwKraTgPuFT4HAMpW-3swEkeRw8p/view?usp=sharing)**
 
 📊 **Portfolio Visualizations:** Coming soon...
 
